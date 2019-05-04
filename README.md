@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Elenif OpenSID](http://i.share.pho.to/6839801f_o.png)
+[![elenif](https://i.postimg.cc/fLdnfNTS/6839801f-o.png)](https://postimg.cc/gXGTG1hG)
 
 ## Instalasi
 
