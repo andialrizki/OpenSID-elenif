@@ -18,10 +18,8 @@
     let pos = $("#main-content").offset().top;
     if($(document).scrollTop() > pos){ 
       $("header").addClass("fixed-top");
-      //$(".tombol-ke-atas").removeClass("hide")
     } else {
       $("header").removeClass("fixed-top");
-      // $(".tombol-ke-atas").addClass("hide");
     }
   })
 </script>
