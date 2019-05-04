@@ -203,7 +203,7 @@
 				</div>
 			</div>
 		<?php endif ?>
-		<div class="apbdes pt-5 pb-5">
+		<div class="apbdes pt-5 pb-5" style="background: #343a40">
 			<div class="container">
 				<div class="col-12 px-0">
 					<div class="row widget mx-auto justify-content-center">
